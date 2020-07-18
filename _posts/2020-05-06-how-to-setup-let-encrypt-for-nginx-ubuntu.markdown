@@ -5,10 +5,6 @@ date:   2020-05-06 00:00:00 +0700
 categories: nginx
 ---
 
-# How to setup Let's Encrypt for Nginx on Ubuntu 18.04 (including IPv6, HTTP/2 and A+ SLL rating)
-
--------------------------------------------------------------------------------
-
 ## Virtual hosts
 
 Let's say you want to host domains `first.com` and `second.com`.
