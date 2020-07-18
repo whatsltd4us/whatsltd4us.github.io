@@ -4,7 +4,7 @@ title:  "Client Side Rendering Vs Server Side Rendering in React js"
 date:   2020-05-06 00:00:00 +0700
 categories: react
 ---
-### 1. Client Side Rendering là gì?
+### 1. What is Client Side Rendering?
 <img src='https://raw.githubusercontent.com/whatsltd4us/whatsltd4us.github.io/master/_assets/images/client-side-redering.png'/>
 
 Client-side rendering is a reasonably new approach to rendering websites, and it didn’t really become popular until JavaScript libraries started incorporating it.  
