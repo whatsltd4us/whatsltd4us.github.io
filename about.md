@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I'm full-stack developer.
-I live in Hanoi.
+I'm coder from Hanoi.
 
 
 [Facebook](https://fb.com/banhmanthau)
